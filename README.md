@@ -14,6 +14,7 @@ An add-on built for Blender that allows users to apply Cel-Shading to any object
 
 ### [Bookmark Finder](https://chromewebstore.google.com/detail/bookmark-finder/afnalmifnoilklcknoaaeomnnikainpj?hl=en&authuser=0)
 [**(Source Code)**](https://github.com/Xiaohan-Tian/bookmark-finder)
+
 Bookmark Finder is a Chrome Extension that can transforms your bookmarked pages with **their contents** into a searchable database, enabling you to discover content through keywords as if operating your very own personal search engine. It ensures that all indexed data is securely stored in your local storage, guaranteeing privacy and speed without the need for external data calls. Experience swift, secure, and efficient searching directly within your browser.
 
 ### Kudokun (Upcoming)
