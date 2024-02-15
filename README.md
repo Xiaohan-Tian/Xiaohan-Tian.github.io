@@ -12,8 +12,9 @@ Inspired by Google's Teachable Machine - Image Project, this is an alternative o
 
 An add-on built for Blender that allows users to apply Cel-Shading to any object quickly and easily. It also provides a straightforward method to convert models created with VRoid into Cel-Shading models.
 
-### Personal Bookmarked Pages Search Engine (Upcoming)
-A Chrome extension that indexes your bookmarked pages, enabling you to easily find them just like using a personal search engine.
+### [Personal Bookmarked Pages Search Engine](https://chromewebstore.google.com/detail/bookmark-finder/afnalmifnoilklcknoaaeomnnikainpj?hl=en&authuser=0)
+[**(Source Code)**](https://github.com/Xiaohan-Tian/bookmark-finder)
+Bookmark Finder transforms your bookmarked pages with **their contents** into a searchable database, enabling you to discover content through keywords as if operating your very own personal search engine. It ensures that all indexed data is securely stored in your local storage, guaranteeing privacy and speed without the need for external data calls. Experience swift, secure, and efficient searching directly within your browser.
 
 ### Kudokun (Upcoming)
 A real-time MIDI modifier that can be used to apply chords to your input device.
