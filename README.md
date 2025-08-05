@@ -19,3 +19,6 @@ Bookmark Finder is a Chrome Extension that can transform your bookmarked pages w
 
 ### Kudokun (Upcoming)
 A real-time MIDI modifier that can be used to apply chords to your input device.
+
+### SoundFont Extracted MP3s for Sampler
+Included instruments: [https://xiaohan-tian.github.io/soundfont-for-samplers/FluidR3_GM/names.json](https://xiaohan-tian.github.io/soundfont-for-samplers/FluidR3_GM/names.json)
